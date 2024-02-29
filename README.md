@@ -6,3 +6,4 @@ O código do repositório demonstra uma solução para o problema de Letter Reco
 ![image](https://github.com/MateusJunior/Adaptive-Linear-Neuron/assets/113775179/ec4bcb1b-b23d-4b10-ba33-d45d5d103a93)
 
 
+Imagem retirada do livro Fundamentals Of Neural Networks, pg 72.
